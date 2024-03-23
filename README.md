@@ -8,27 +8,25 @@
 <br>
 Необходимо в Microsoft SQL Server нажать «New Query» и вставить содержимое документа. Далее нажать «Execute» и сохранить запрос.<br>
 После этого можно закрыть вкладку и обновить списки Databases правой кнопкой мыши. После этого можно вставлять мои запросы к этой БД через «Execute».<br>
-Диаграмма БД представлена чуть ниже.
 
 
-Ниже будут представлены скриншоты результатов моих запросов к БД.<br>
+Ниже будут представлены диаграмма БД и скриншоты результатов моих запросов к ней.<br>
 <br>
 <br>
 I did the work on a Microsoft SQL Server installed on a laptop.<br>
 
 The training database was provided during the course and is located in the document "airport base.sql"<br>
-It is necessary to click "New Query" in Microsoft SQL Server and paste the contents of the document. Next, click "Execute" and save the request.<br>
+It is necessary to click "New Query" in Microsoft SQL Server and paste the contents of the document.
+<br>Next, click "Execute" and save the request.<br>
 After that, you can close the tab and update the Databases lists with the right mouse button. After that, you can insert my queries to this database via "Execute".<br>
 This is how the database diagram looks like:<br>
 ![airport diagram](https://github.com/marina-bor-23/sql/assets/164322986/1908bf9f-64df-4640-9280-f080fc4ca5c1)
 
 
 Screenshots of the results of my database queries will be shown below.<br>
-<br>
-<br>
-<br>
+
+
 Запрос, CTE, Кейс, агрегирующие функции <br>
-<br>
 Находится в файле "1 Query" <br>
 <br>
 
@@ -38,7 +36,6 @@ Screenshots of the results of my database queries will be shown below.<br>
 
 
 Query, CTE, Case, Aggregating functions:<br>
-<br>
 Located in the file "1 Query"<br>
 <br>
 Result:<br>
