@@ -9,10 +9,11 @@
 После этого можно закрыть вкладку и обновить списки Databases правой кнопкой мыши. После этого можно вставлять мои запросы к этой БД через «Execute».<br>
 
 Ниже будут представлены скриншоты результатов моих запросов к БД.<br>
-
+<br>
+<br>
 I did the work on a Microsoft SQL Server installed on a laptop.<br>
 
-The training database was provided during the course and is located in the document "sql airport base.txt"<br>
+The training database was provided during the course and is located in the document "airport base.sql"<br>
 It is necessary to click "New Query" in Microsoft SQL Server and paste the contents of the document. Next, click "Execute" and save the request.<br>
 After that, you can close the tab and update the Databases lists with the right mouse button. After that, you can insert my queries to this database via "Execute".<br>
 
@@ -20,25 +21,38 @@ Screenshots of the results of my database queries will be shown below.<br>
 <br>
 <br>
 <br>
-1. Запрос, CTE, Кейс, агрегирующие функции | Query, CTE, Case, Aggregating functions:<br>
+1. Запрос, CTE, Кейс, агрегирующие функции <br>
 <br>
-Находится в файле "Query, CTE, Case, Aggregating functions" | Located in the file "Query, CTE, Case, Aggregating functions" <br>
+Находится в файле "Query, CTE, Case, Aggregating functions" <br>
 <br>
-Результат | Result:<br>
+Результат<br>
 <img src=»адрес изображения» alt=»описание изображения»><br>
 
-<br>
-<br>
-<br>
-2. Создание собственной БД, связь между таблицами, запросы | Creating my own database, relationship between tables, queries:<br>
-<br>
 
+
+1. Query, CTE, Case, Aggregating functions:<br>
+<br>
+Located in the file "Query, CTE, Case, Aggregating functions"<br>
+<br>
+Result:<br>
+<br>
+<br>
+<br>
+2. Создание собственной БД, связь между таблицами, запросы <br>
+<br>
+Сначала я создала базу данных, она находится в файле под названием "hotel base.sql". Необходимо запустить ее и сохранить, а далее приступить к запуску кодов под каждой буквой.<br>
+<br>
 a. Запрос, включающий фильтрацию данных по NOT IN и LIKE и сортировкой по двум полям. Находится в файле "a.sql";<br>
 b. Многотабличный запрос, содержащий группировку записей, агрегативные функции и фильтр, используемый в разделе HAVING. Находится в файле "b.sql"; <br>
 c. Многотабличный запрос, включающий соединение таблиц по ключам с фильтром и CASE-выражением. Находится в файле "c.sql"; <br>
 d. Многотабличный запрос, включающий временную таблицу. Находится в файле "d.sql"; <br>
 e. Многотабличный запрос, включающий 2 оконные функции с сортировкой. Находится в файле "e.sql"<br>
-
+<br>
+<br>
+2. Creating my own database, relationship between tables, queries:<br>
+<br>
+First, I created a database, it is located in a file called "hotel base.sql". You need to run it and save it, and then start running the codes under each letter.
+<br>
 <br>
 a. A query that includes filtering data by NOT IN and LIKE and sorting by two fields. Located in the file "a.sql";<br>
 b. A multi-table query containing grouping of records, aggregate functions and a filter used in the HAVING section. Located in the file "b.sql";<br>
