@@ -23,7 +23,7 @@ Screenshots of the results of my database queries will be shown below.<br>
 <br>
 1. Запрос, CTE, Кейс, агрегирующие функции <br>
 <br>
-Находится в файле "Query, CTE, Case, Aggregating functions" <br>
+Находится в файле "1 Query" <br>
 <br>
 Результат<br>
 <img src=»адрес изображения» alt=»описание изображения»><br>
@@ -32,7 +32,7 @@ Screenshots of the results of my database queries will be shown below.<br>
 
 1. Query, CTE, Case, Aggregating functions:<br>
 <br>
-Located in the file "Query, CTE, Case, Aggregating functions"<br>
+Located in the file "1 Query"<br>
 <br>
 Result:<br>
 <br>
