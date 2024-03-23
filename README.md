@@ -26,7 +26,8 @@ Screenshots of the results of my database queries will be shown below.<br>
 Находится в файле "1 Query" <br>
 <br>
 Результат<br>
-<img src=»адрес изображения» alt=»описание изображения»><br>
+
+![1 Query](https://github.com/marina-bor-23/sql/assets/164322986/74700542-b35a-49f5-917a-153574b3b002)
 
 
 
