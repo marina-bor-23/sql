@@ -5,8 +5,11 @@
 Работу я выполняла на установленном на ноутбук Microsoft SQL Server.<br>
 
 1. Query, CTE, Case, Aggregating functions. Тренировочная база данных была предоставлена на курсе и находится в документе «sql script airport base.txt»<br>
+<br>
 Необходимо в Microsoft SQL Server нажать «New Query» и вставить содержимое документа. Далее нажать «Execute» и сохранить запрос.<br>
 После этого можно закрыть вкладку и обновить списки Databases правой кнопкой мыши. После этого можно вставлять мои запросы к этой БД через «Execute».<br>
+Диаграмма БД представлена чуть ниже.
+
 
 Ниже будут представлены скриншоты результатов моих запросов к БД.<br>
 <br>
@@ -16,6 +19,9 @@ I did the work on a Microsoft SQL Server installed on a laptop.<br>
 The training database was provided during the course and is located in the document "airport base.sql"<br>
 It is necessary to click "New Query" in Microsoft SQL Server and paste the contents of the document. Next, click "Execute" and save the request.<br>
 After that, you can close the tab and update the Databases lists with the right mouse button. After that, you can insert my queries to this database via "Execute".<br>
+This is how the database diagram looks like:<br>
+![airport diagram](https://github.com/marina-bor-23/sql/assets/164322986/1908bf9f-64df-4640-9280-f080fc4ca5c1)
+
 
 Screenshots of the results of my database queries will be shown below.<br>
 <br>
@@ -43,7 +49,7 @@ Result:<br>
 2. Создание собственной БД, связь между таблицами, запросы <br>
 <br>
 Сначала я создала базу данных, она находится в файле под названием "hotel base.sql". Необходимо запустить ее и сохранить, а далее приступить к запуску кодов под каждой буквой.<br>
-<br>
+Диаграмма БД находится чуть ниже.<br>
 a. Запрос, включающий фильтрацию данных по NOT IN и LIKE и сортировкой по двум полям. Находится в файле "a.sql";<br>
 b. Многотабличный запрос, содержащий группировку записей, агрегативные функции и фильтр, используемый в разделе HAVING. Находится в файле "b.sql"; <br>
 c. Многотабличный запрос, включающий соединение таблиц по ключам с фильтром и CASE-выражением. Находится в файле "c.sql"; <br>
@@ -54,8 +60,9 @@ e. Многотабличный запрос, включающий 2 оконн�
 2. Creating my own database, relationship between tables, queries:<br>
 <br>
 First, I created a database, it is located in a file called "hotel base.sql". You need to run it and save it, and then start running the codes under each letter.
-<br>
-<br>
+This is how the database diagram looks like:<br>
+![hotel diagram](https://github.com/marina-bor-23/sql/assets/164322986/95a695f8-ec39-481a-b01a-6397169569a7)
+
 a. A query that includes filtering data by NOT IN and LIKE and sorting by two fields. Located in the file "a.sql";<br>
 Result:<br>
 ![a](https://github.com/marina-bor-23/sql/assets/164322986/db043ca4-028f-42d6-9d80-6c01ca8d3838)
