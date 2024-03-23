@@ -4,7 +4,7 @@
 
 Работу я выполняла на установленном на ноутбук Microsoft SQL Server.<br>
 
-Тренировочная база данных была предоставлена на курсе и находится в документе «sql script airport base.txt»<br>
+1. Query, CTE, Case, Aggregating functions. Тренировочная база данных была предоставлена на курсе и находится в документе «sql script airport base.txt»<br>
 Необходимо в Microsoft SQL Server нажать «New Query» и вставить содержимое документа. Далее нажать «Execute» и сохранить запрос.<br>
 После этого можно закрыть вкладку и обновить списки Databases правой кнопкой мыши. После этого можно вставлять мои запросы к этой БД через «Execute».<br>
 
@@ -21,21 +21,22 @@ Screenshots of the results of my database queries will be shown below.<br>
 <br>
 <br>
 <br>
-1. Запрос, CTE, Кейс, агрегирующие функции <br>
+Запрос, CTE, Кейс, агрегирующие функции <br>
 <br>
 Находится в файле "1 Query" <br>
 <br>
-Результат<br>
-
-![1 Query](https://github.com/marina-bor-23/sql/assets/164322986/74700542-b35a-49f5-917a-153574b3b002)
 
 
 
-1. Query, CTE, Case, Aggregating functions:<br>
+
+
+
+Query, CTE, Case, Aggregating functions:<br>
 <br>
 Located in the file "1 Query"<br>
 <br>
 Result:<br>
+![1 Query](https://github.com/marina-bor-23/sql/assets/164322986/74700542-b35a-49f5-917a-153574b3b002)
 <br>
 <br>
 <br>
@@ -56,7 +57,21 @@ First, I created a database, it is located in a file called "hotel base.sql". Yo
 <br>
 <br>
 a. A query that includes filtering data by NOT IN and LIKE and sorting by two fields. Located in the file "a.sql";<br>
+Result:<br>
+![a](https://github.com/marina-bor-23/sql/assets/164322986/db043ca4-028f-42d6-9d80-6c01ca8d3838)
+
 b. A multi-table query containing grouping of records, aggregate functions and a filter used in the HAVING section. Located in the file "b.sql";<br>
+Result:<br>
+![b](https://github.com/marina-bor-23/sql/assets/164322986/ad0c51c9-c73d-4a69-9a61-5c204b7c8a84)
+
 c. A multi-table query that includes joining tables by keys with a filter and a CASE expression. Located in the file "c.sql";<br>
+Result:<br>
+![c](https://github.com/marina-bor-23/sql/assets/164322986/59659056-8611-4d22-9448-efeea68384e9)
+
 d. A multi-table query that includes a temporary table. Located in the file "d.sql";<br>
+Result:<br>
+![d](https://github.com/marina-bor-23/sql/assets/164322986/e6a289f5-af72-465a-8d33-cf8c0d9f54ba)
+
 e. A multi-table query that includes 2 window functions with sorting. Located in the file "e.sql"<br>
+Result:<br>
+![e](https://github.com/marina-bor-23/sql/assets/164322986/7abcac9e-b808-4bcc-9f86-b5b61d7f3f32)
