@@ -1,6 +1,6 @@
 <h1 align="center"> SQL</h1> 
 
-<h3 align="center"> Запросы, код, оптимизация запросов, домашние задания с курса | Queries, code, query optimization, homework from the course </h3> 
+<h3 align="center"> Запросы, код, оптимизация запросов, домашние задания с курса<br> | Queries, code, query optimization, homework from the course </h3> 
 
 Работу я выполняла на установленном на ноутбук Microsoft SQL Server.<br>
 
